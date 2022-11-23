@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+$royal: #536976;
+$blue: #292E49;
+body{
+  min-height: 100vh;
+  background: linear-gradient(135deg,$royal,$blue);
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+.App{
+  width: 1200px;
+  background: #f0f0f0;
+  padding: 20px;
+}
